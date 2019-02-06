@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello I have made some subtle changes.
+=======
+hello world! this is a feature.
+>>>>>>> 4cd96fbcc75222c248072c99342ba7d0f05c0e02
